@@ -1,11 +1,6 @@
-# Correction automatique 42
-Suite de tests pour la piscine c de 42 en aout 2016.
 
-## Installation
-
-copier/coller dans votre terminal:
-
-`curl -L https://raw.githubusercontent.com/jzck/42-correction-jhalford/master/setup.sh > /tmp/jh && source /tmp/jh`
+INTSALL USING : 
+curl -L https://raw.githubusercontent.com/jzck/42-correction-jhalford/master/setup.sh > /tmp/jh && source /tmp/jh`
 
 ## Utilisation
 
@@ -18,7 +13,7 @@ copier/coller dans votre terminal:
 
 ## Avancement
 
-| jour | tests prêts |
+| DAYS | tests prêts |
 |---   |--- |
 |  02  | 7/7 |
 |  03  | 9/9 (sauf ex01) |
@@ -28,16 +23,3 @@ copier/coller dans votre terminal:
 |  11  | 17/17 |
 |  13  | 7/9 |
 
-# Remerciements
-Ce projet est le fruit d'un effort collectif pour la piscine d'août 2016 à 42 Paris, par ordre alphabétique:
-
-  - abarriel
-  -	elacaill
-  - fdrias
-  - joberg
-  - jboulang
-  - mcartier
-  - nboute
-  - piquerue
-  - wescande
-  - et al.
