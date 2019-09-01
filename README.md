@@ -1,6 +1,6 @@
 
 INTSALL USING : 
-curl -L https://raw.githubusercontent.com/jzck/42-correction-jhalford/master/setup.sh > /tmp/jh && source /tmp/jh`
+curl -L https://raw.githubusercontent.com/jzck/42-correction-jhalford/master/setup.sh > /tmp/jh && source /tmp/jh
 
 ## Utilisation
 
